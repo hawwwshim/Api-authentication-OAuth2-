@@ -1,0 +1,32 @@
+C:\Users\User\source\repos\firebase Oauth2\firebase Oauth2\bin\Debug\net8.0\firebase Oauth2.exe
+C:\Users\User\source\repos\firebase Oauth2\firebase Oauth2\bin\Debug\net8.0\firebase Oauth2.deps.json
+C:\Users\User\source\repos\firebase Oauth2\firebase Oauth2\bin\Debug\net8.0\firebase Oauth2.runtimeconfig.json
+C:\Users\User\source\repos\firebase Oauth2\firebase Oauth2\bin\Debug\net8.0\firebase Oauth2.dll
+C:\Users\User\source\repos\firebase Oauth2\firebase Oauth2\bin\Debug\net8.0\firebase Oauth2.pdb
+C:\Users\User\source\repos\firebase Oauth2\firebase Oauth2\bin\Debug\net8.0\Google.Apis.dll
+C:\Users\User\source\repos\firebase Oauth2\firebase Oauth2\bin\Debug\net8.0\Google.Apis.Auth.dll
+C:\Users\User\source\repos\firebase Oauth2\firebase Oauth2\bin\Debug\net8.0\Google.Apis.Auth.AspNetCore3.dll
+C:\Users\User\source\repos\firebase Oauth2\firebase Oauth2\bin\Debug\net8.0\Google.Apis.Core.dll
+C:\Users\User\source\repos\firebase Oauth2\firebase Oauth2\bin\Debug\net8.0\Google.Apis.Oauth2.v2.dll
+C:\Users\User\source\repos\firebase Oauth2\firebase Oauth2\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\User\source\repos\firebase Oauth2\firebase Oauth2\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\source\repos\firebase Oauth2\firebase Oauth2\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\source\repos\firebase Oauth2\firebase Oauth2\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\source\repos\firebase Oauth2\firebase Oauth2\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\source\repos\firebase Oauth2\firebase Oauth2\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\source\repos\firebase Oauth2\firebase Oauth2\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\User\source\repos\firebase Oauth2\firebase Oauth2\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\User\source\repos\firebase Oauth2\firebase Oauth2\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\source\repos\firebase Oauth2\firebase Oauth2\bin\Debug\net8.0\System.Management.dll
+C:\Users\User\source\repos\firebase Oauth2\firebase Oauth2\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\User\source\repos\firebase Oauth2\firebase Oauth2\obj\Debug\net8.0\firebase Oauth2.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\firebase Oauth2\firebase Oauth2\obj\Debug\net8.0\firebase Oauth2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\firebase Oauth2\firebase Oauth2\obj\Debug\net8.0\firebase Oauth2.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\firebase Oauth2\firebase Oauth2\obj\Debug\net8.0\firebase Oauth2.AssemblyInfo.cs
+C:\Users\User\source\repos\firebase Oauth2\firebase Oauth2\obj\Debug\net8.0\firebase Oauth2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\firebase Oauth2\firebase Oauth2\obj\Debug\net8.0\firebase.24776BDA.Up2Date
+C:\Users\User\source\repos\firebase Oauth2\firebase Oauth2\obj\Debug\net8.0\firebase Oauth2.dll
+C:\Users\User\source\repos\firebase Oauth2\firebase Oauth2\obj\Debug\net8.0\refint\firebase Oauth2.dll
+C:\Users\User\source\repos\firebase Oauth2\firebase Oauth2\obj\Debug\net8.0\firebase Oauth2.pdb
+C:\Users\User\source\repos\firebase Oauth2\firebase Oauth2\obj\Debug\net8.0\firebase Oauth2.genruntimeconfig.cache
+C:\Users\User\source\repos\firebase Oauth2\firebase Oauth2\obj\Debug\net8.0\ref\firebase Oauth2.dll
